@@ -4,22 +4,23 @@
 
     main
     
-    `.body{
+    ```css
+    .body{
     
     }
-    `
+    ```
 
     develop
 
-    `.body{
+    ```css
+    .body{
 
         margin: 0;
 
         padding: 0;
 
     }
-
-    `
+    ```
 
 
 # Commands
