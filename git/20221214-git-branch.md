@@ -2,8 +2,6 @@
 
     - Create a bifurcation point to code independent on original project.
 
-    ```
-
     main
     
     `.body{
@@ -23,7 +21,6 @@
 
     `
 
-    ```
 
 # Commands
 
